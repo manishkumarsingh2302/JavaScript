@@ -17,4 +17,29 @@
 
      const ko redicliar ya reassign nahi kar sakte.....
      var redicliartion kerte hai
-      let ko kewal reassign kar sakte hai..
+    let ko kewal reassign kar sakte hai..
+      
+
+        //opertor -> are speciall symbol 
+          
+
+          (3 types of opertor)
+
+          1 =unary ===single ->++,--,++v,v++
+          2= binary
+          -ARTHMATIC
+          +,-,*,/,%          
+          -.Reltional=<>,!=..
+          ->logikal=$$,||,!
+          ->Assigment
+          ->
+       3=turnry=single line condition ke liye use krte hai ,,, -->?,:
+
+
+
+       write a program to find area of circle
+       write a program tp print sqa of any number 
+       write a program to swap two values using third variable 
+
+
+
