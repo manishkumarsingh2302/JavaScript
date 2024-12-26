@@ -44,3 +44,9 @@
        write a program number is positive ,negative,and nutural no
     wap to take 1 input from the user and perfrom task according to the input ..if user give 1 in input so perfrom addition of two no,2 for sub,3 for multipliction
 //conditionl
+  (1) DIFF BW PARAMETER OR ARGUMNET ?
+
+
+  //function declartion
+  //function defination
+  //function calling 
