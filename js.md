@@ -50,3 +50,8 @@
   //function declartion
   //function defination
   //function calling 
+//function ke liye argunment as a input work karta hai
+//pre difine or user difine is type of function
+   
+
+   Q)write a program to add two number using function 
