@@ -29,3 +29,26 @@ let a =demo()
       else{
         alert("odd")
       }
+      //print rectangle 
+      function fun(){
+        return num*num*num
+      }
+      let a=parseInt(prompt("entre a number"))
+      let ans=fun(a)
+      for(let r=1; r<=ans; r++){
+        for(let c=1,c<=r;c++){
+          document.write("<br>")
+        }
+      }
+      //add total num
+       function digit(a){
+               let sum=0
+               while(a!=0){
+                re=a%10;
+                sum=sum+re
+                a=a/10
+               }
+               console.log(sum);
+       }
+       let br=parseInt(prompt("enter numner"))
+       demo(b);
