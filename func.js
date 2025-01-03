@@ -36,7 +36,7 @@ let a =demo()
       let a=parseInt(prompt("entre a number"))
       let ans=fun(a)
       for(let r=1; r<=ans; r++){
-        for(let c=1,c<=r;c++){
+        for(let c=1;c<=r;c++){
           document.write("<br>")
         }
       }

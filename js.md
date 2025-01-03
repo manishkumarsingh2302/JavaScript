@@ -54,4 +54,4 @@
 //pre difine or user difine is type of function
    
 
-   Q)write a program to add two number using function 
+   Q)write a program to add two number using function   
