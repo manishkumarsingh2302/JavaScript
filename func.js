@@ -8,10 +8,10 @@ add(2,5)
 
 
 function demo(){
-    return "manish"
+    return "manshi"
 
 }
-let a =demo()
+let a = demo()
   console.log(a);
   // or
     console.log(demo())
@@ -33,7 +33,7 @@ let a =demo()
       function fun(){
         return num*num*num
       }
-      let a=parseInt(prompt("entre a number"))
+      let a=parseInt(prompt("entre a number"));
       let ans=fun(a)
       for(let r=1; r<=ans; r++){
         for(let c=1;c<=r;c++){
