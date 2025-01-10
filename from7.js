@@ -3,6 +3,8 @@ function validate(){
     let age=document.getElementById('age').value
     let contact=document.getElementById('contact').value
     let email=document.getElementById('email').value
+    let pass=document.getElementById('password').value
+    let cpass=document.getElementById('cpassword').value
     if(name==""){
         alert("Plase fill full your name")
         document.getElementById('name').focus()
@@ -40,6 +42,22 @@ else if( isNaN(contact) ){
     else if(!(email.includes('@'))){
         alert("please entre valid email")
         document.getElementById('email').focus()
+        return false
+    }
+    else if(pass==""){
+        alert("plese fill password")
+        document.getElementById('password').focus()
+        return false
+    }
+    else if(!(pass.match(/[@#$%*~]/))){
+        alert("plase include special charctre")
+        document.getElementById('password').focus()
+        return false
+
+    }
+    else if(cpass==""){
+        alert("plese  confrom password")
+        document.getElementById('cpassword').focus()
         return false
     }
 }
