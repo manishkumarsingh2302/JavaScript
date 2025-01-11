@@ -16,5 +16,5 @@ function pink(){
     document.body.style.backgroundColor="pink"
 }
 function blue(){
-    document.body.style.backgroundColor="blue"
+    document.body.style.backgroundColor="yellow"
 }
