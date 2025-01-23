@@ -46,12 +46,15 @@
 //conditionl
   (1) DIFF BW PARAMETER OR ARGUMNET ?
 
-
+block of code,set of instrction , thats function
   //function declartion
   //function defination
   //function calling 
 //function ke liye argunment as a input work karta hai
 //pre difine or user difine is type of function
-   
+/behavior of tag =atribut  
+event or fuction using atribute inner  
 
    Q)write a program to add two number using function   5
+   \\querySelector use to target partyculer element  using without index
+//array is a collection of multiple  type of data in java script  
