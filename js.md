@@ -57,4 +57,6 @@ event or fuction using atribute inner
 
    Q)write a program to add two number using function   5
    \\querySelector use to target partyculer element  using without index
-//array is a collection of multiple  type of data in java script  
+//array is a collection of multiple  type of data in java script 
+// add or romove   le liye js me splice ka use karte hai 
+//slice we use romove elament in back side 
