@@ -60,3 +60,8 @@ event or fuction using atribute inner
 //array is a collection of multiple  type of data in java script 
 // add or romove   le liye js me splice ka use karte hai 
 //slice we use romove elament in back side 
+//Arrow function 
+
+ arrow function 
+ //syntax
+ //()=>(return)

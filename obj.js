@@ -39,3 +39,15 @@ for(let ky in ob){
     console.log(ky);
 }
 // ===========================================================
+let emp=[
+    {
+        name:"manish",age:20,contact:5345,id:154
+    },
+    {
+        name:"manishi",age:20,contact:5375,id:153
+    },
+    {
+        name:"manpj",age:27,contact:5346,id:1545
+    }
+]
+console.log(emp);
