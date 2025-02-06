@@ -51,3 +51,11 @@ let emp=[
     }
 ]
 console.log(emp);
+
+let data =emp.map((e)=>{return e.name})
+console.log(data);
+//=============================================================
+
+let fdata =emp.filter((e)=>{return e.name=="manishi"})
+console.log(fdata);
+//==============================

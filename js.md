@@ -62,6 +62,15 @@ event or fuction using atribute inner
 //slice we use romove elament in back side 
 //Arrow function 
 
- arrow function 
+ arrow function use to shorted syntex writing
  //syntax
  //()=>(return)
+ //function demo (function){
+          use to aargumnet in another  function}
+        //  aaray object use to multiple data 
+        //map function use to fetch data and retrun to new aray 
+call back function  
+
+//filtre function use to call specephic function in data 
+//set intrvel use to popup create 
+//set intrval pass to pop 1> is timer 2> is function
