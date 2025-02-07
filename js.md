@@ -74,3 +74,17 @@ call back function
 //filtre function use to call specephic function in data 
 //set intrvel use to popup create 
 //set intrval pass to pop 1> is timer 2> is function
+
+// 3 thing is impotant (
+ 1. prtocol(https http)
+2.port(number written in brouser at the end)
+  3. domain(www.)
+)
+(
+four main function in local storge  (
+ 1. setItem() data store in local stroge
+ 2. getItem()  data retrive in local storge
+ 3. removeItem() particular data remove in local storge
+ 4. clear() all data clear in local storge
+  )
+)

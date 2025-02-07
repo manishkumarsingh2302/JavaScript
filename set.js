@@ -14,3 +14,10 @@ st=setInterval(()=>{
 function Stop(){
     clearInterval(st)
 }
+//time out function
+setTimeout(()=>{
+    alert("hello")
+},1000)
+//=================
+let frm =document.querySelector('#frm')
+setTimeout(()=>{return fem.style.display=("Block")},2000)
