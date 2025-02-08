@@ -69,7 +69,8 @@ event or fuction using atribute inner
           use to aargumnet in another  function}
         //  aaray object use to multiple data 
         //map function use to fetch data and retrun to new aray 
-call back function  
+call back function  +0.
+
 
 //filtre function use to call specephic function in data 
 //set intrvel use to popup create 
@@ -87,4 +88,4 @@ four main function in local storge  (
  3. removeItem() particular data remove in local storge
  4. clear() all data clear in local storge
   )
-)
+)0

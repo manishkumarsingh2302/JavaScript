@@ -21,3 +21,19 @@ setTimeout(()=>{
 //=================
 let frm =document.querySelector('#frm')
 setTimeout(()=>{return fem.style.display=("Block")},2000)
+//======================================
+// function showdata(){
+//     let shname=document.querySelector('#showname')
+//     let shage =document.querySelector('#showage')
+//     let getname=localStorage.getItem('name')
+//     let getage=localStorage.getItem('age')
+
+//     shname.innerHTML=getname
+//     shage.innerHTMl=getage
+    
+// }
+
+// function clearr(){
+// location.reload()
+
+//}
