@@ -88,4 +88,15 @@ four main function in local storge  (
  3. removeItem() particular data remove in local storge
  4. clear() all data clear in local storge
   )
-)0
+)
+//fetch (url,{method}) use to get
+=> method ->get,post,delet,put/patch
+http method/request
+==>promise(ek object hai) =there are three type 1)reject
+                                 2)pending
+                                 3)fullfill
+ NOTE=>javascript is a synchronus/light waight langauge
+
+ 4} promice ko haddale karne ke liye 2 keybord aate hai 
+                                             1)async       2)await
+                                             
