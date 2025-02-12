@@ -100,3 +100,6 @@ http method/request
  4} promice ko haddale karne ke liye 2 keybord aate hai 
                                              1)async       2)await
                                              
+
+                  Q= what is event bubbaling
+                     what is event deligition                           
